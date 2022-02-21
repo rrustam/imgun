@@ -1,12 +1,12 @@
 {
-    "name": "overvoidjs/imgun",
-    "description": "Class to work with some img from PHP",
+    "name": "rrustam/imgun",
+    "description": "Fork overvoidjs imgun. Class to work with some img from PHP",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Overvoidjs",
-            "email": "loisoj@gmail.com"
+            "name": "rrustam",
+            "email": "rozumbetov.rustam@gmail.com"
         }
     ],
     "minimum-stability": "dev",
